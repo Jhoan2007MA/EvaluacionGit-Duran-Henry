@@ -15,3 +15,14 @@ Un clásico postre cremoso hecho con arroz, leche, azúcar, y especias como cane
 
 -**Merengón**:
 Postre hecho a base de capas de merengue, crema batida, y frutas frescas como fresas, melocotones, o frutas tropicales. 
+
+## Bebidas Recomendadas
+
+-**Batidos**:
+Un batido de frutas rojas con chocolate o un smoothie de frutas tropicales son opciones refrescantes y saludables.
+
+-**Café**:
+Un café negro, expreso, cortado o capuchino puede ser un buen acompañamiento para postres como pasteles, brownies o tartas.
+
+-**Vinos espumosos**:
+Champaña o Prosecco son ideales para postres frutales y para acompañar fresas con chocolate. 
