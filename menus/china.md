@@ -18,9 +18,20 @@ Un plato picante originario de Sichuan, el pollo se saltea con cacahuates, chile
 
 -**Té**:
 El té verde, de jazmín y oolong son muy populares y combinan bien con la comida china, ayudando a limpiar el paladar entre platos.
- 
+
 -**Té rojo frío**:
 Una bebida refrescante y clásica que se sirve a menudo en restaurantes chinos. 
 
 -**Leche de coco**:
-Una bebida espesa que se prepara con leche, agua y azúcar, y que es una opción popular en China. 
+Una bebida espesa que se prepara con leche, agua y azúcar, y que es una opción popular en China.
+
+## Consejos
+
+-**Equilibrio de sabores**:
+Busca una combinación de platos dulces, salados, ácidos y picantes, así como una variedad de ingredientes como carnes, mariscos, verduras y almidones. 
+
+-**Compartir es clave**:
+En la comida china, es común compartir los platos, así que no tengas miedo de probar diferentes opciones. 
+
+-**Usa los palillos correctamente**:
+Si no estás familiarizado con los palillos, no dudes en pedir un tenedor o practicar un poco. 
