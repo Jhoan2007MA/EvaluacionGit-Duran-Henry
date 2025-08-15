@@ -25,4 +25,15 @@ Es una bebida a base de yogur, muy popular en India, que puede ser dulce o salad
 El té es una bebida fundamental en la cultura india, y el masala chai (té especiado) es especialmente popular. Se prepara con té negro, leche, azúcar y una mezcla de especias como cardamomo, jengibre, clavo y canela. 
 
 -**Nimbu Pani**:
-También conocido como limonada india, es una bebida refrescante hecha con jugo de limón, agua, azúcar y una pizca de sal, a veces con especias adicionales como comino tostado o chaat masala. 
+También conocido como limonada india, es una bebida refrescante hecha con jugo de limón, agua, azúcar y una pizca de sal, a veces con especias adicionales como comino tostado o chaat masala.
+
+## Consejos
+
+-**Evitar la comida callejera**:
+Aunque puede ser tentador, la comida callejera puede no ser segura para los turistas debido a la posible contaminación. 
+
+-**Optar por alimentos frescos**:
+Prefiere frutas pelables como plátanos, naranjas, mangos y piñas. Si deseas probar otras frutas o verduras, asegúrate de que estén frescas y sin cortar y lávalas bien con agua embotellada.
+
+-**Cuidado con el agua**:
+Evita el agua del grifo y el hielo en las bebidas, ya que pueden no ser seguros. 
