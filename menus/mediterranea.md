@@ -24,3 +24,13 @@ Son opciones aceptables, especialmente en el desayuno, pero se recomienda modera
 
 -**Zumos de frutas frescas**:
 Se pueden incluir zumos de frutas naturales sin azúcar añadido, como el de naranja, que aportan vitaminas y minerales. 
+
+## Consejos
+
+-**Base en plantas**: Prioriza vegetales, frutas, granos integrales y legumbres en cada comida. 
+
+-**Grasas saludables**: Utiliza aceite de oliva como principal fuente de grasa para cocinar y aderezar. 
+
+-**Pescado y aves**: Incluye pescado (especialmente azul) y aves magras en tu dieta semanal. 
+
+-**Limitación de carne roja**: Reduce la cantidad de carne roja que consumes, optando por cortes magros si la consumes. 
