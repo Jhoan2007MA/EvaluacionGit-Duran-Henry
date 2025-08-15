@@ -26,3 +26,14 @@ Un café negro, expreso, cortado o capuchino puede ser un buen acompañamiento p
 
 -**Vinos espumosos**:
 Champaña o Prosecco son ideales para postres frutales y para acompañar fresas con chocolate. 
+
+## Consejos
+
+-**Equilibrio**:
+Incluye opciones dulces, cremosas, refrescantes, con chocolate, y clásicos revisados para satisfacer diversos gustos. 
+
+-**Variedad**:
+Ofrece postres para diferentes preferencias, incluyendo opciones sin azúcar, sin gluten, veganas, o bajas en calorías. 
+
+-**Presentación**:
+Presta atención a la estética visual de los postres, utilizando food styling para resaltar su atractivo. 
