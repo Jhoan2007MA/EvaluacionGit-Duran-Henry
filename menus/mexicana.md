@@ -15,4 +15,15 @@ Sopa espesa de granos de maíz (cacahuazintle) cocidos con carne (generalmente c
 Chiles poblanos rellenos de un guiso de carne y frutas, bañados en salsa de nuez (nogada) y decorados con granada.
 
 -**Mole**:
-Salsa compleja a base de chiles, especias, nueces y chocolate, que puede acompañar a diferentes carnes (pollo, pavo, cerdo). 
+Salsa compleja a base de chiles, especias, nueces y chocolate, que puede acompañar a diferentes carnes (pollo, pavo, cerdo).
+
+## Bebidas Recomendadas
+
+-**Aguas frescas**:
+Bebidas refrescantes hechas con frutas, agua y azúcar, como horchata (arroz, canela y leche), jamaica (flor de hibisco), o tamarindo (fruta).
+
+-**Atole**:
+Una bebida caliente a base de masa de maíz, leche y azúcar, con diferentes sabores como vainilla, chocolate o fresa.
+
+-**Chocolate caliente mexicano**:
+Una bebida rica y cremosa hecha con chocolate, leche y especias como canela. 
