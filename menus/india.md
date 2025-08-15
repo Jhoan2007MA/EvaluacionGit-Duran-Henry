@@ -14,4 +14,15 @@ Trozos de pollo marinados en especias y yogur, asados y luego cocinados en una s
 Un curry de espinacas cremoso con queso indio (paneer).
 
 -**Vindaloo**:
-Un curry muy picante originario de Goa, tradicionalmente hecho con carne de cerdo, pero también se encuentra con otras carnes. 
+Un curry muy picante originario de Goa, tradicionalmente hecho con carne de cerdo, pero también se encuentra con otras carnes.
+
+## Bebidas Recomendadas
+
+-**Lassi**:
+Es una bebida a base de yogur, muy popular en India, que puede ser dulce o salada. El lassi dulce a menudo se prepara con frutas como mango o plátano, y azúcar, mientras que el lassi salado se condimenta con comino, pimienta y otras especias.
+
+-**Chai**:
+El té es una bebida fundamental en la cultura india, y el masala chai (té especiado) es especialmente popular. Se prepara con té negro, leche, azúcar y una mezcla de especias como cardamomo, jengibre, clavo y canela. 
+
+-**Nimbu Pani**:
+También conocido como limonada india, es una bebida refrescante hecha con jugo de limón, agua, azúcar y una pizca de sal, a veces con especias adicionales como comino tostado o chaat masala. 
