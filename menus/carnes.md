@@ -12,3 +12,11 @@ El menú de carnes en un restaurante puede ofrecer una variedad de opciones, des
 -**Solomillo con salsa verde**
 
 -**Dorada con ensalada de lombarda**
+
+## Bebidas Recomendadas
+
+-**Limonada**: Una limonada fresca y natural es una excelente opción para cortar la grasa de la carne.
+
+-**Maracuyá**: El sabor ácido y dulce del maracuyá contrasta muy bien con los sabores intensos de la carne.
+
+-**Otras opciones**: Naranja, Piña, Mora, etc., son opciones refrescantes y deliciosas.
