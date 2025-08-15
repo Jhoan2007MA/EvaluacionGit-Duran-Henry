@@ -23,3 +23,14 @@ El champán es una bebida festiva y versátil, ideal para aperitivos o para acom
 
 -**Kir**:
 Un clásico francés, el Kir es una mezcla de vino blanco y crema de cassis, que se convierte en Kir Royal si se usa champán en lugar de vino blanco. 
+
+## Consejos
+
+-**Orden de los platos**:
+En una comida francesa tradicional, el orden suele ser: entrada (puede ser una sopa o un plato pequeño), plato principal (carne, pescado o guiso con verduras), queso y postre. 
+
+-**Fondo y salsas**:
+Los fondos o caldos son la base de muchas salsas francesas. Se preparan a fuego lento con huesos, verduras y hierbas, aportando profundidad de sabor a los platos. 
+
+-**Técnicas de cocción**:
+El vapor, el escalfado y el pochado son técnicas que requieren poco o ningún aceite, manteniendo la ligereza de los platos. 
