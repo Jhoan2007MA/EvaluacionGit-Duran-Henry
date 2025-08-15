@@ -20,3 +20,6 @@ El menú de carnes en un restaurante puede ofrecer una variedad de opciones, des
 -**Maracuyá**: El sabor ácido y dulce del maracuyá contrasta muy bien con los sabores intensos de la carne.
 
 -**Otras opciones**: Naranja, Piña, Mora, etc., son opciones refrescantes y deliciosas.
+
+## Consejos
+consumir entre 3 y 4 raciones de carne por semana, alternando carnes blancas y rojas, pero dando prioridad a los cortes más magros.
