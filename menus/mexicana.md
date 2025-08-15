@@ -26,4 +26,15 @@ Bebidas refrescantes hechas con frutas, agua y azúcar, como horchata (arroz, ca
 Una bebida caliente a base de masa de maíz, leche y azúcar, con diferentes sabores como vainilla, chocolate o fresa.
 
 -**Chocolate caliente mexicano**:
-Una bebida rica y cremosa hecha con chocolate, leche y especias como canela. 
+Una bebida rica y cremosa hecha con chocolate, leche y especias como canela.
+
+## Consejos
+
+-**Elige bien las tortillas**:
+Las tortillas de maíz son una opción más saludable que las de harina, ya que suelen ser integrales y con menos sodio.
+
+-**Salsas frescas**:
+En lugar de salsas cremosas o con alto contenido de grasa, opta por salsas frescas a base de ingredientes como tomate, cebolla, cilantro y aguacate (guacamole).
+
+-**Hierbas aromáticas**:
+El cilantro, el epazote y otras hierbas frescas son fundamentales en la cocina mexicana. Añaden sabor y aroma a tus platillos. 
